@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Contento porque ya entiendo cada vez mejor como programar y la habilidad se me está desarrollando. Felicidades a mi
         </a>
       </header>
     </div>
